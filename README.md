@@ -61,7 +61,7 @@
 ## 🖼️ Scenes
 
 <p align="center">
-  <img src="assets/scenes.png" alt="The nine scenes: Cabin in the snow, City rain, Sakura at dusk, Autumn forest, Firefly night, August sky, Rainy library, Winter café, Lighthouse at dusk" width="100%">
+  <img src="assets/wisp-scenes.png" alt="The nine scenes: Cabin in the snow, City rain, Sakura at dusk, Autumn forest, Firefly night, August sky, Rainy library, Winter café, Lighthouse at dusk" width="100%">
 </p>
 
 | Scene | Effect | Sound |
