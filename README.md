@@ -14,6 +14,11 @@
   each with its own hand-painted scene, colours and soft ambient sound.
 </p>
 
+<p align="center">
+  <img src="assets/snowman.gif" alt="Rolling snowballs on the taskbar and stacking them into a snowman" width="100%">
+</p>
+<p align="center"><sub>Roll a few snowballs along the taskbar, stack three of them and a snowman pops up. Recorded live on a real desktop.</sub></p>
+
 <br>
 
 <p align="center">
