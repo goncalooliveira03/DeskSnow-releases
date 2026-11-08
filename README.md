@@ -28,7 +28,7 @@
 ## ✨ What it does
 
 **🌨️ Weather that lives on your desktop**
-- Six effects, each with its own hand-painted scene: snow, rain, sakura, autumn leaves, fireflies and shooting stars.
+- Nine hand-painted scenes and six effects: snow, rain, sakura, autumn leaves, fireflies and shooting stars.
 - Snow lands on top of your windows and piles up on the taskbar. Drag a window and the snow slides into an overhang; shake it and clumps break off.
 - When a heap gets too tall it slumps and levels out, the way real snow does.
 - Wisp can follow the seasons and the time of day on its own. It can also switch to snow or rain when it is actually snowing or raining in your city.
@@ -61,7 +61,7 @@
 ## 🖼️ Scenes
 
 <p align="center">
-  <img src="assets/scenes.png" alt="The six scenes: Cabin in the snow, City rain, Sakura at dusk, Autumn forest, Firefly night, August sky" width="100%">
+  <img src="assets/scenes.png" alt="The nine scenes: Cabin in the snow, City rain, Sakura at dusk, Autumn forest, Firefly night, August sky, Rainy library, Winter café, Lighthouse at dusk" width="100%">
 </p>
 
 | Scene | Effect | Sound |
@@ -72,6 +72,9 @@
 | Autumn forest | Falling leaves | Crackling fire |
 | Firefly night | Fireflies glowing over the wallpaper | Crickets |
 | August sky | Shooting stars | Crickets |
+| Rainy library | Rain on a tall arched window | Rain heard from indoors |
+| Winter café | Snow, snowmen and the snowplough | Crackling fire |
+| Lighthouse at dusk | Shooting stars over the sea | Crickets |
 
 ## 📥 Install
 
